@@ -1,0 +1,12 @@
+#logo-altus {
+  display:grid;
+  grid-template-columns: 1fr;
+  align-items: center;
+  background: aliceblue;
+  font-family: sans-serif;
+  top:0;
+  width:100%;
+  margin: center ;
+  text-align: center;
+  position: sticky;
+    }
